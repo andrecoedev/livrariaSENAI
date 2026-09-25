@@ -38,7 +38,6 @@ src/utils/currency.js   Formatação monetária pt-BR
 src/App.jsx             Rotas e estrutura comum
 src/main.jsx            Entrada, Provider e BrowserRouter
 tests/store.test.js     Testes automatizados do reducer
-ENTREGA.md              Roteiro do relatório acadêmico
 vercel.json             Reescrita de URLs para as rotas do React Router
 ```
 
