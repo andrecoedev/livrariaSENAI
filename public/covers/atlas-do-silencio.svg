@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 420" role="img" aria-label="Atlas do Silêncio">
+  <rect width="300" height="420" fill="#bd6f4f"/>
+  <rect x="16" y="16" width="268" height="388" fill="none" stroke="#f3dbb8" stroke-width="1"/>
+  <circle cx="150" cy="211" r="89" fill="#e6ad77"/>
+  <path d="M61 231c43-25 66-25 96-1s58 24 82 1M61 249c43-25 66-25 96-1s58 24 82 1M61 267c43-25 66-25 96-1s58 24 82 1" fill="none" stroke="#f4ddbd" stroke-width="3"/>
+  <circle cx="150" cy="190" r="23" fill="#f5dfba"/><path d="M150 138v-20m0 145v-19m-72-53H60m180 0h-18" stroke="#f5dfba" stroke-width="2"/>
+  <text x="150" y="51" fill="#fff0d4" font-family="Georgia,serif" font-size="11" letter-spacing="3" text-anchor="middle">TOMÁS AZEVEDO</text>
+  <text x="150" y="340" fill="#fff5e4" font-family="Georgia,serif" font-size="35" text-anchor="middle">ATLAS DO</text>
+  <text x="150" y="376" fill="#fff5e4" font-family="Georgia,serif" font-size="34" font-style="italic" text-anchor="middle">silêncio</text>
+</svg>

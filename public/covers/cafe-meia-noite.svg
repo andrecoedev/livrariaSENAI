@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 420" role="img" aria-label="Café à Meia-Noite">
+  <rect width="300" height="420" fill="#3a3545"/>
+  <rect x="16" y="16" width="268" height="388" fill="none" stroke="#d8bc8c" stroke-width="1"/>
+  <circle cx="150" cy="195" r="79" fill="#827181"/>
+  <path d="M107 198h83v29c0 28-18 42-41 42s-42-14-42-42Z" fill="#e6d2b3"/>
+  <path d="M190 209c34-11 33 34 0 34" fill="none" stroke="#e6d2b3" stroke-width="9"/>
+  <path d="M95 280h118" stroke="#e6d2b3" stroke-width="6" stroke-linecap="round"/>
+  <path d="M128 185c-14-16 15-19 2-38m31 38c-13-17 13-24 0-43" fill="none" stroke="#f3e3ca" stroke-width="3" stroke-linecap="round"/>
+  <path d="m90 132 2 9 9 2-9 2-2 9-2-9-9-2 9-2Zm123 36 2 9 9 2-9 2-2 9-2-9-9-2 9-2Z" fill="#f3e0b8"/>
+  <text x="150" y="50" fill="#f1e3d5" font-family="Georgia,serif" font-size="11" letter-spacing="3" text-anchor="middle">DANIEL ALENCAR</text>
+  <text x="150" y="347" fill="#fff1dc" font-family="Georgia,serif" font-size="35" text-anchor="middle">CAFÉ À</text>
+  <text x="150" y="383" fill="#fff1dc" font-family="Georgia,serif" font-size="30" font-style="italic" text-anchor="middle">meia-noite</text>
+</svg>

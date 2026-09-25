@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 420" role="img" aria-label="O Mapa dos Ventos">
+  <rect width="300" height="420" fill="#d4b68a"/>
+  <rect x="16" y="16" width="268" height="388" fill="none" stroke="#526c68" stroke-width="1"/>
+  <circle cx="150" cy="210" r="88" fill="#ecdbc0"/>
+  <path d="M150 129v162M69 210h162M92 152l116 116m0-116L92 268" stroke="#6b8580" stroke-width="1"/>
+  <path d="m150 151 15 44 44 15-44 15-15 44-15-44-44-15 44-15Z" fill="#4c716d"/>
+  <path d="m150 177 10 24 24 9-24 9-10 24-9-24-25-9 25-9Z" fill="#e9d6b0"/>
+  <circle cx="150" cy="210" r="5" fill="#bd8665"/>
+  <text x="150" y="50" fill="#244f50" font-family="Georgia,serif" font-size="11" letter-spacing="3" text-anchor="middle">BIANCA FARIAS</text>
+  <text x="150" y="346" fill="#234a49" font-family="Georgia,serif" font-size="33" text-anchor="middle">O MAPA DOS</text>
+  <text x="150" y="382" fill="#234a49" font-family="Georgia,serif" font-size="33" font-style="italic" text-anchor="middle">ventos</text>
+</svg>

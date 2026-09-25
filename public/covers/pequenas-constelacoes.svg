@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 420" role="img" aria-label="Pequenas Constelações">
+  <rect width="300" height="420" fill="#323f61"/>
+  <rect x="16" y="16" width="268" height="388" fill="none" stroke="#b9ac9d" stroke-width="1"/>
+  <circle cx="150" cy="210" r="81" fill="#657697"/>
+  <g fill="#f5dbab"><circle cx="96" cy="188" r="3"/><circle cx="123" cy="146" r="4"/><circle cx="166" cy="177" r="3"/><circle cx="207" cy="156" r="4"/><circle cx="189" cy="221" r="3"/><circle cx="114" cy="250" r="4"/><circle cx="155" cy="265" r="3"/></g>
+  <path d="m96 188 27-42 43 31 41-21-18 65-34 44-41-15-18-62" fill="none" stroke="#f4dfbc" stroke-width="1" opacity=".8"/>
+  <path d="m70 113 3 12 12 3-12 3-3 12-3-12-12-3 12-3Zm162 136 3 11 11 3-11 3-3 11-3-11-11-3 11-3Z" fill="#f3dcad"/>
+  <text x="150" y="50" fill="#e5dfd5" font-family="Georgia,serif" font-size="11" letter-spacing="3" text-anchor="middle">LIA NASCIMENTO</text>
+  <text x="150" y="348" fill="#f5ecdd" font-family="Georgia,serif" font-size="30" text-anchor="middle">PEQUENAS</text>
+  <text x="150" y="383" fill="#f5ecdd" font-family="Georgia,serif" font-size="26" font-style="italic" text-anchor="middle">constelações</text>
+</svg>
